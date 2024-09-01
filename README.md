@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakarkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarkumar07" /> </p>
 
-- 🌱 I’m currently learning **Studying,JavaScript,MERN Stack**<p> <a href="[https://vercel.com/new/prabhakarkumar07](https://vercel.com/prabhakarkumar07s-projects)" target="blank"> live project link </a></p>
+- 🌱 I’m currently learning **Studying,JavaScript,MERN Stack**<p> <a href="https://vercel.com/prabhakarkumar07s-projects" target="blank"> live project link </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
