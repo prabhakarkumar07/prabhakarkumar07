@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakarkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarkumar07" /> </p>
 
-- 🌱 I’m currently learning **Studying,JavaScript,MERN Stack**<p> <a href="https://vercel.com/new/prabhakarkumar07" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20211123005573%2Fen%2FVercel-Announces-150M-in-Series-D-Funding-at-a-2.5B-Valuation-to-Further-Fuel-Innovation-and-Global-Adoption-of-World%25E2%2580%2599s-Fastest-Frontend-Development-Platform&psig=AOvVaw0S050T00xHukyyCceDkuK2&ust=1725289107929000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCinvWAoogDFQAAAAAdAAAAABAE" alt="vercel" height="15" width="15" /></a></p>
+- 🌱 I’m currently learning **Studying,JavaScript,MERN Stack**<p> <a href="https://vercel.com/new/prabhakarkumar07" target="blank"><img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20211123005573%2Fen%2FVercel-Announces-150M-in-Series-D-Funding-at-a-2.5B-Valuation-to-Further-Fuel-Innovation-and-Global-Adoption-of-World%25E2%2580%2599s-Fastest-Frontend-Development-Platform&psig=AOvVaw0S050T00xHukyyCceDkuK2&ust=1725289107929000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCinvWAoogDFQAAAAAdAAAAABAE](https://mms.businesswire.com/media/20211123005573/en/929867/22/vercel-logo-freelogovectors.net.jpg)" alt="vercel" height="15" width="15" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
