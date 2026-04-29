@@ -29,7 +29,7 @@ const prabhakar = {
 };
 ```
 
-I'm a backend engineer at **ImageInfo Systems** in New Delhi, working on enterprise banking systems that process millions of transactions. I write Java for a living and build side projects in React when I want to see things move on a screen.
+I'm a Software Engineer at **ImageInfo Systems** in New Delhi, working on enterprise banking systems that process millions of transactions. I write Java for a living and build side projects in React when I want to see things move on a screen.
 
 Right now I'm working on the **Cheque Truncation System (CTS)** — OCR/MICR extraction, role-based verification workflows, and batch processing that needs to be fast and never wrong. Banking software doesn't get to have bugs.
 
