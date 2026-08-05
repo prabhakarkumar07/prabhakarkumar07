@@ -1,33 +1,47 @@
 <div align="center">
 
+# `PRABHAKAR KUMAR`
+### Software Developer &nbsp;//&nbsp; Java + Spring Boot &nbsp;//&nbsp; Banking & Fintech Systems
+
 ```
 prabhakar@github:~$ ./boot_profile.sh
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Loading+Skills...+%5BOK%5D;Loading+Projects...+%5BOK%5D;Mounting+Banking+Infrastructure...+%5BOK%5D;Ready.)
-
-</div>
-
-<div align="center" style="background-color:#0d1117; padding: 15px; border-radius: 8px;">
-
-```bash
-prabhakar@github:~$ whoami
-```
-```
-Prabhakar Kumar
-Software Developer @ Image InfoSystems Pvt. Ltd.
-New Delhi, India
-```
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=Booting+Developer+Profile...+%5BOK%5D;Loading+Skills...+%5BOK%5D;Loading+Projects...+%5BOK%5D;Mounting+Banking+Infrastructure...+%5BOK%5D;System+Ready.+Welcome%2C+visitor.)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhakarkumar07&label=Profile%20Views&color=39FF14&style=flat-square" alt="Profile Views"/>
-  <a href="https://prabhakar-kumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/prabhakar-kumar-040644214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:prabhakarkumarcs2023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/prabhakarkumarcs"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=prabhakarkumar07&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge&labelColor=39FF14" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/UPTIME-1.5%2B_YEARS-39FF14?style=for-the-badge&labelColor=0d1117" />
 </p>
+
+<p align="center">
+  <a href="https://prabhakar-kumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/prabhakar-kumar-040644214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:prabhakarkumarcs2023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/prabhakarkumarcs"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/prabhakar_477"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+</div>
+
+<details>
+<summary><b>📖 prabhakar@github:~$ cat table_of_contents.md</b></summary>
+<br>
+
+- [`whoami` — About Me](#-prabhakargithub-cat-abouttxt)
+- [`current_role.log`](#-prabhakargithub-cat-current_rolelog)
+- [`neofetch`](#-prabhakargithub-neofetch)
+- [Tech Stack (`ls -la ~/skills/`)](#-prabhakargithub-ls-la-skills)
+- [Projects (`tree ~/projects`)](#-prabhakargithub-tree-projects)
+- [`experience.log`](#-prabhakargithub-cat-experiencelog)
+- [`education.log`](#-prabhakargithub-cat-educationlog)
+- [`git status` / `git log`](#-prabhakargithub-git-status)
+- [GitHub Stats & Trophies](#-prabhakargithub-github_statssh)
+- [Coding Profiles](#-prabhakargithub-cat-coding_profilesmd)
+- [Connect](#-prabhakargithub-echo-connect)
+
+</details>
 
 ---
 
@@ -56,6 +70,19 @@ on side projects by night.
 [SCOPE]   OCR/MICR extraction · role-based maker-checker workflows ·
           NPCI file processing · SOAP/REST APIs for interbank cheque clearing
 ```
+
+### `prabhakar@github:~$ ./benchmark.sh --impact`
+
+<div align="center">
+
+| Metric | Before | After | Δ |
+|:---|:---:|:---:|:---:|
+| OCR / MICR extraction accuracy | ~65% | ~85% | 🟢 +20 pts |
+| NPCI batch processing time | 8 hrs | 4 hrs | 🟢 2x faster |
+| NPCI file-handling throughput | 1x | 2x | 🟢 +100% |
+| Codebase runtime | Java 8 | Java 21 | 🟢 fully migrated |
+
+</div>
 
 ---
 
@@ -317,14 +344,33 @@ q3r4s5t integrate Razorpay + Twilio + FCM into QueueLess backend
 ### `prabhakar@github:~$ ./github_stats.sh`
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabhakarkumar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarkumar07&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=prabhakarkumar07&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarkumar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakarkumar07&theme=tokyo-night&hide_border=true&area=true" width="48%" />
 
+<sub>These four are free shared services (github-readme-stats, streak-stats, activity-graph) — they occasionally 503 under load. If a card is ever blank, just refresh in a minute; if it stays blank for days, see the self-hosting note at the bottom.</sub>
+
 ### `prabhakar@github:~$ ./trophies.sh`
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=prabhakarkumar07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=prabhakarkumar07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+<sub>If the row above ever looks blank, that free trophy mirror is rate-limited — refresh after a minute, or try the official <code>github-profile-trophy.vercel.app</code> endpoint instead.</sub>
+
+</div>
+
+---
+
+### `prabhakar@github:~$ ./contribution_snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabhakarkumar07/prabhakarkumar07/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/prabhakarkumar07/prabhakarkumar07/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a one-time GitHub Actions workflow in your <code>prabhakarkumar07/prabhakarkumar07</code> repo to generate this SVG. See setup note below.</sub>
 
 </div>
 
@@ -372,3 +418,22 @@ prabhakar@github:~$ logout
 **Session ended — thanks for stopping by.** 👋
 
 </div>
+
+<br>
+
+<!--
+  SETUP NOTE (safe to delete from your live README):
+  1. Contribution snake — create prabhakarkumar07/prabhakarkumar07 (a repo named
+     exactly your username) if it doesn't exist, then add
+     .github/workflows/snake.yml using https://github.com/Platane/snk#usage
+     so it commits the generated SVG to an "output" branch.
+  2. Trophy image — if the mirror above ever goes down too, swap in another
+     community mirror listed at https://github.com/ryo-ma/github-profile-trophy
+     or self-host per https://github.com/ryo-ma/github-profile-trophy#how-to-use.
+  3. github-readme-stats / streak-stats can also rate-limit under heavy shared
+     load — self-hosting is the permanent fix if it becomes a recurring issue.
+  4. The wave banner (capsule-render.vercel.app) was removed — its API was
+     returning a server error as of Aug 2026. If it comes back online later
+     and you want it back, the original call was:
+     https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a2b1a&height=200&section=header&text=PRABHAKAR%20KUMAR&fontSize=46&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%2B%20Spring%20Boot%20%2F%2F%20Banking%20%26%20Fintech%20Systems&descAlignY=58&descSize=16&descColor=39FF14
+-->
